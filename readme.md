@@ -22,7 +22,7 @@
 
 Here, we used alexnet defined in nets/alexnet.py based on **multi-task learning**. We can also defined our network.
 
-The training process can be seen:
+The following list is the training processing.
 
 ```
 Iter: 0  Loss: 2696.982  Accuracy: 0.16, 0.20, 0.28, 0.24  Learning_rate: 0.0010
@@ -63,7 +63,7 @@ Iter: 6000  Loss: 0.079  Accuracy: 1.00, 1.00, 0.92, 0.96  Learning_rate: 0.0000
 
 `python test.py`
 
-Test results can be seen:
+Test results are as following:
 
 ```
 label: 0, 4, 3, 5
@@ -88,7 +88,7 @@ label: 5, 8, 9, 6
 predict: 5, 8, 9, 6
 ```
 
-The image and prediction can be [link: verification code recognition](https://github.com/zhulf0804/Tensorflow-Learning/blob/master/tf_relearn/10-4%20%E9%AA%8C%E8%AF%81%E7%A0%81%E6%B5%8B%E8%AF%95.ipynb)
+The image and prediction can be seen at [link: verification code recognition](https://github.com/zhulf0804/Tensorflow-Learning/blob/master/tf_relearn/10-4%20%E9%AA%8C%E8%AF%81%E7%A0%81%E6%B5%8B%E8%AF%95.ipynb)
 
 
 #### Reference
