@@ -20,7 +20,7 @@
 
 `python train.py` 
 
-Here, we used alexnet defined in nets/alexnet.py. We can also defined our network.
+Here, we used alexnet defined in nets/alexnet.py based on **multi-task learning**. We can also defined our network.
 
 The training process can be seen:
 
